@@ -1,0 +1,12 @@
+{
+    "name": "kewlz/htdocs",
+    "description": "Receitas-Caseiras",
+    "license": "MIT",
+    "autoload": {
+        "classmap": ["./"]
+    },
+    "require": {
+        "pecee/simple-router": "4.3.7.2"
+    }
+    
+}

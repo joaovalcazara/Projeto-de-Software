@@ -1,0 +1,30 @@
+.texto-imagem-header{
+    color: gray;
+    text-align: center;
+    font-size: rem;
+   
+}
+
+.texto-right{
+    position: relative;
+    left: 69%;
+}
+
+
+.texto-imagem{
+    color: gray;
+    text-align: center;
+    font-size: 2rem;
+
+}
+.texto-destaque{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    color: #dd7230;
+    letter-spacing: -2px;
+    text-align: center;
+    font-size: 3rem;
+    
+
+}
+
